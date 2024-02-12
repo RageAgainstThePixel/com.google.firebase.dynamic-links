@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 780c979c6c4c4d1c8cd7d67f07f1e119
+guid: e31b5b590106427e9526e7121b55a5fe
 labels:
 - gvh
 - gvh_manifest
-- gvh_version-8.4.0
-- gvhp_exportpath-Firebase/Editor/FirebaseDynamicLinks_version-8.4.0_manifest.txt
+- gvh_version-8.5.0
+- gvhp_exportpath-Firebase/Editor/FirebaseDynamicLinks_version-8.5.0_manifest.txt
 - gvhp_manifestname-0Firebase Dynamic Links
 - gvhp_manifestname-1FirebaseDynamicLinks
 timeCreated: 0
