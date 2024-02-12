@@ -1,12 +1,13 @@
 {
+  "unity": "2017.1", 
   "dependencies": {
-    "com.google.firebase.app": "6.14.0"
+    "com.google.firebase.app": "6.14.1"
   }, 
   "author": {
     "name": "Google LLC", 
     "url": "https://firebase.google.com/docs/dynamic-links"
   }, 
-  "description": "Deep link potential players to the right place inside your game.\n\nDynamic Links are smart URLs that allow you to send existing and potential players to any location within your game. They survive the game install process, so even new players see the content they're looking for when they open the game for the first time. Dynamic Links are free forever, for any scale.", 
+  "displayName": "Firebase Dynamic Links", 
   "keywords": [
     "Google", 
     "Firebase", 
@@ -14,8 +15,7 @@
     "vh-name:FirebaseDynamicLinks", 
     "vh-name:Firebase Dynamic Links"
   ], 
-  "displayName": "Firebase Dynamic Links", 
-  "name": "com.google.firebase.dynamic-links", 
-  "unity": "2017.1", 
-  "version": "6.14.0"
+  "description": "Deep link potential players to the right place inside your game.\n\nDynamic Links are smart URLs that allow you to send existing and potential players to any location within your game. They survive the game install process, so even new players see the content they're looking for when they open the game for the first time. Dynamic Links are free forever, for any scale.", 
+  "version": "6.14.1", 
+  "name": "com.google.firebase.dynamic-links"
 }
